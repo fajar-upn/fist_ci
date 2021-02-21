@@ -1,0 +1,2 @@
+<link href="<?php echo base_url()?>includes/assets/libs/datatables.net-bs4/css/dataTables.bootstrap4.css" rel="stylesheet">
+<link href="<?php echo base_url()?>includes/assets/libs/sweetalert2/dist/sweetalert2.min.css" rel="stylesheet">
